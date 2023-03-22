@@ -4,7 +4,7 @@ category: Current_Members
 title: Wen Ye
 image: wye.jpg
 role: TBD
-permalink: 'team/dipti-kulkarni'
+permalink: 'team/wye'
 
 education:
  - PhD, Biostatistics, University of Michigan, 2006
