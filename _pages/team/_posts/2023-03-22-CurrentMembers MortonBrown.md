@@ -1,6 +1,6 @@
 ---
 layout: member
-category: FormalMembers
+category: CurrentMembers
 title: Morton Brown
 image: Morton_Brown.png
 role: TBD
