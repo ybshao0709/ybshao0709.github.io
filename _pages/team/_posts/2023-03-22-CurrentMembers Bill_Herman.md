@@ -1,9 +1,9 @@
 ---
 layout: member
 category: CurrentMembers
-title: William H. Herman,MD, MPH
+title: William H. Herman, MD, MPH
 image: William_H.jpg
-role: Co-Investigator
+role: Professor, Internal Medicine; Professor, Health Behavior and Health Education; Research Scientist, Center for Clinical Management Research
 permalink: 'team/bill_Herman'
 
 education:
