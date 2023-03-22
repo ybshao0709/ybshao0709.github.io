@@ -2,7 +2,7 @@
 layout: member
 category: CurrentMembers
 title: Wen Ye
-image: wye.jpg
+image: researcher.png
 permalink: 'team/wye'
 
 education:
