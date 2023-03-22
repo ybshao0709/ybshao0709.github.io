@@ -3,7 +3,7 @@ layout: member
 category: CurrentMembers
 title: Wen Ye, PhD
 image: wye.jpg
-role: Research Scientist, Biostatistics; Assistant Director, SABER; Associate Director of Method and Measurement Core, MCDTR
+role: Research Scientist, Biostatistics; <br/> Assistant Director, SABER; <br/> Associate Director of Method and Measurement Core, MCDTR
 permalink: 'team/wye'
 
 education:
