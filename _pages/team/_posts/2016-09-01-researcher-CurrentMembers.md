@@ -1,10 +1,10 @@
 ---
 layout: member
-category: staff
+category: CurrentMembers
 title: Researcher Name
-image: researcher.png
+image: wye.jpg
 role: Lab Director
-permalink: 'team/researcher-name'
+permalink: 'team/wye'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
