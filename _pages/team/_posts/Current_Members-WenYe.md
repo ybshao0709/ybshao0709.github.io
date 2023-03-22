@@ -2,7 +2,7 @@
 layout: member
 category: Current_Members
 title: Wen Ye
-image: wye.jpg
+image: researcher.png
 role: TBD
 permalink: 'team/wye'
 
