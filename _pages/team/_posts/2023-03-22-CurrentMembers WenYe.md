@@ -2,7 +2,8 @@
 layout: member
 category: CurrentMembers
 title: Wen Ye
-image: researcher.png
+image: wye.jpg
+role: Co-Investigator
 permalink: 'team/wye'
 
 education:
