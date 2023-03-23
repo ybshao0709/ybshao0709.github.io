@@ -2,7 +2,7 @@
 layout: member
 category: CurrentMembers
 title: William H. Herman, MD, MPH
-image: William_H.jpg
+image: herman.png
 role: Professor, Internal Medicine; <br/> Professor, Health Behavior and Health Education; <br/> Research Scientist, Center for Clinical Management Research
 permalink: 'team/bill_Herman'
 
