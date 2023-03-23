@@ -38,5 +38,45 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"type": "article-journal",
+		"title": "Cost-effectiveness of carotid artery stenting vs endarterectomy: A simulation",
+		"container-title": "J Stroke Cerebrovasc Dis",
+		"volume": "32",
+		"issue": "2",
+		"source": "IEEE Xplore",
+		"DOI": "10.1016/j.jstrokecerebrovasdis.2022.106908",
+		"author": [
+			{
+				"family": "Marriott ",
+				"given": "DJ."
+			},
+			{
+				"family": "Kuo",
+				"given": "S."
+			},
+			{
+				"family": "Ye",
+				"given": "W."
+			},
+			{
+				"family": "Levine",
+				"given": "DA."
+			},
+			{
+				"family": "Herman",
+				"given": "WH."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
 	}
 ]
