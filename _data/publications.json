@@ -1,81 +1,106 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/35DI8H8Q",
 		"type": "article-journal",
-		"title": "Cost-effectiveness of carotid artery stenting vs endarterectomy: A simulation",
-		"abstract": "Clinical trials conducted before the introduction of modern medical management to prevent stroke demonstrated that carotid endarterectomy (CEA) and carotid artery stenting (CAS) prevent stroke following transient ischemic attack (TIA). We compared the cost-effectiveness of CEA, CAS, and modern medical management in two secular settings of medical management in individuals with incident TIA and type 2 diabetes.",
-		"container-title": "J Stroke Cerebrovasc Dis",
-		"volume": "32",
-		"issue": "2",
-		"source": "IEEE Xplore",
+		"container-title": "Journal of Stroke and Cerebrovascular Diseases",
 		"DOI": "10.1016/j.jstrokecerebrovasdis.2022.106908",
+		"ISSN": "1052-3057",
+		"issue": "2",
+		"note": "publisher: Elsevier",
+		"title": "Cost-effectiveness of carotid artery stenting vs endarterectomy: A simulation",
+		"URL": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2022.106908",
+		"volume": "32",
 		"author": [
 			{
-				"family": "Marriott ",
-				"given": "DJ."
+				"family": "Marriott",
+				"given": "Deanna J."
 			},
 			{
 				"family": "Kuo",
-				"given": "S."
+				"given": "Shihchen"
 			},
 			{
 				"family": "Ye",
-				"given": "W."
+				"given": "Wen"
 			},
 			{
 				"family": "Levine",
-				"given": "DA."
+				"given": "Deborah A."
 			},
 			{
 				"family": "Herman",
-				"given": "WH."
+				"given": "William H."
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					23
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
 					"2023",
-					2
+					2,
+					1
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/2W9YUTK9",
 		"type": "article-journal",
-		"title": "Cost-effectiveness of carotid artery stenting vs endarterectomy: A simulation",
-		"container-title": "J Stroke Cerebrovasc Dis",
-		"volume": "32",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"DOI": "10.1016/j.jstrokecerebrovasdis.2022.106908",
+		"abstract": "To assess the national prevalence of and trends in achieving current guideline-recommended treatment goals and pharmacotherapies for primary and secondary prevention of stroke among U.S. adults with type 2 diabetes (T2D).We performed serial cross-sectional analyses in 4,834 adults aged ≥45 years with T2D who participated in the 2001–2018 National Health and Nutrition Examination Survey. With stratification by stroke history, we estimated the proportion of adults with T2D who achieved current guideline-recommended strategies for stroke prevention. Preventive strategies for stroke were benchmarked against diabetes care and cardiovascular risk reduction guidelines.Overall in 2001–2018, among those without stroke history, the proportion who achieved primary stroke prevention strategies ranged from 8.4% (95% CI 6.8–10.1) for aspirin/clopidogrel treatment in those with a higher cardiovascular disease risk to 80.5% (78.8–82.2) for nonsmoking. Among those with stroke history, the proportion who achieved secondary stroke prevention strategies ranged from 11.8% (8.7–14.8) for weight control to 80.0% (74.9–84.9) for glycemic control. From 2001 to 2018, among those without stroke history, there was a significant increase in statin therapy (Ptrend &lt; 0.0001), smoking abstinence (Ptrend = 0.01), and ACE inhibitor/angiotensin receptor blocker treatment for hypertension (Ptrend = 0.04) but a substantial decline in weight control (Ptrend &lt; 0.001). Among those with stroke history, only statin therapy (Ptrend = 0.01) increased significantly over time.During 2001–2018, the achievement of some current guideline-recommended strategies for stroke prevention among U.S. adults with T2D improved but remains a challenge overall. Efforts are needed to improve implementation of strategies for stroke prevention in this population.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/dc21-2283",
+		"ISSN": "0149-5992",
+		"issue": "9",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "2003-2011",
+		"title": "National Trends in the Achievement of Recommended Strategies for Stroke Prevention in U.S. Adults With Type 2 Diabetes, 2001–2018",
+		"URL": "https://doi.org/10.2337/dc21-2283",
+		"volume": "45",
 		"author": [
 			{
-				"family": "Marriott ",
-				"given": "DJ."
-			},
-			{
 				"family": "Kuo",
-				"given": "S."
+				"given": "Shihchen"
 			},
 			{
-				"family": "Ye",
-				"given": "W."
-			},
-			{
-				"family": "Levine",
-				"given": "DA."
+				"family": "Yang",
+				"given": "Chun-Ting"
 			},
 			{
 				"family": "Herman",
-				"given": "WH."
+				"given": "William H."
+			},
+			{
+				"family": "Lisabeth",
+				"given": "Lynda D."
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
 			}
 		],
-		"issued": {
+		"accessed": {
 			"date-parts": [
 				[
 					"2023",
-					2
+					3,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					14
 				]
 			]
 		}
