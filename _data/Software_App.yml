@@ -1,4 +1,10 @@
 - title: "Michigan Model for Diabetes (MMD)"
-  content: MMD is a computerized disease model that enables the users to simulate the progression of diabetes over time, its complications (retinopathy, neuropathy and nephropathy), and its major comorbidities (cardiovascular and cerebrovascular disease), and death. Transition probabilities can be a function of individual characteristics, current disease states or treatment status. The model also estimates the medical costs of diabetes and its comorbidities, as well as the quality of life related to the current health state of the subject. <br/> <a href="https://diabetes.med.umich.edu/affiliated-centers/michigan-center-diabetes-translational-research-mcdtr/cores-and-programs-4">MMD 2.0</a> 
+  content: MMD is a computerized disease model that enables the users to simulate the progression of diabetes over time, 
+  its complications (retinopathy, neuropathy and nephropathy), and its major comorbidities (cardiovascular and cerebrovascular disease), and death. 
+  Transition probabilities can be a function of individual characteristics, current disease states or treatment status. 
+  The model also estimates the medical costs of diabetes and its comorbidities, 
+  as well as the quality of life related to the current health state of the subject. 
+  <br/> <a style="font-size:50px;" href="https://diabetes.med.umich.edu/affiliated-centers/michigan-center-diabetes-translational-research-mcdtr/cores-and-programs-4">MMD 2.0</a> 
+  
   
  
