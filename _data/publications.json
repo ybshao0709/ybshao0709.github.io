@@ -1,5 +1,132 @@
 [
 	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/35DI8H8Q",
+		"type": "article-journal",
+		"container-title": "Journal of Stroke and Cerebrovascular Diseases",
+		"DOI": "10.1016/j.jstrokecerebrovasdis.2022.106908",
+		"ISSN": "1052-3057",
+		"issue": "2",
+		"note": "publisher: Elsevier",
+		"title": "Cost-effectiveness of carotid artery stenting vs endarterectomy: A simulation",
+		"URL": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2022.106908",
+		"volume": "32",
+		"author": [
+			{
+				"family": "Marriott",
+				"given": "Deanna J."
+			},
+			{
+				"family": "Kuo",
+				"given": "Shihchen"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Levine",
+				"given": "Deborah A."
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/4BE8GYAN",
+		"type": "article-journal",
+		"abstract": "Background & AimsWe conducted a meta-analysis to summarize the rates of progression to and regression of nonalcoholic fatty liver (NAFL), nonalcoholic steatohepatitis (NASH), and fibrosis in adults with nonalcoholic fatty liver disease (NAFLD).",
+		"container-title": "Clinical Gastroenterology and Hepatology",
+		"DOI": "10.1016/j.cgh.2022.07.033",
+		"ISSN": "1542-3565",
+		"note": "publisher: Elsevier",
+		"title": "Disease State Transition Probabilities Across the Spectrum of NAFLD: A Systematic Review and Meta-Analysis of Paired Biopsy or Imaging Studies",
+		"URL": "https://doi.org/10.1016/j.cgh.2022.07.033",
+		"author": [
+			{
+				"family": "Le",
+				"given": "Phuc"
+			},
+			{
+				"family": "Payne",
+				"given": "Julia Yang"
+			},
+			{
+				"family": "Zhang",
+				"given": "Lu"
+			},
+			{
+				"family": "Deshpande",
+				"given": "Abhishek"
+			},
+			{
+				"family": "Rothberg",
+				"given": "Michael B."
+			},
+			{
+				"family": "Alkhouri",
+				"given": "Naim"
+			},
+			{
+				"family": "Herman",
+				"given": "William"
+			},
+			{
+				"family": "Hernandez",
+				"given": "Adrian V."
+			},
+			{
+				"family": "Schleicher",
+				"given": "Mary"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Dasarathy",
+				"given": "Srinivasan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					4
+				]
+			]
+		}
+	},
+	{
 		"id": "http://zotero.org/users/local/W4EYSEhQ/items/2W9YUTK9",
 		"type": "article-journal",
 		"abstract": "To assess the national prevalence of and trends in achieving current guideline-recommended treatment goals and pharmacotherapies for primary and secondary prevention of stroke among U.S. adults with type 2 diabetes (T2D).We performed serial cross-sectional analyses in 4,834 adults aged ≥45 years with T2D who participated in the 2001–2018 National Health and Nutrition Examination Survey. With stratification by stroke history, we estimated the proportion of adults with T2D who achieved current guideline-recommended strategies for stroke prevention. Preventive strategies for stroke were benchmarked against diabetes care and cardiovascular risk reduction guidelines.Overall in 2001–2018, among those without stroke history, the proportion who achieved primary stroke prevention strategies ranged from 8.4% (95% CI 6.8–10.1) for aspirin/clopidogrel treatment in those with a higher cardiovascular disease risk to 80.5% (78.8–82.2) for nonsmoking. Among those with stroke history, the proportion who achieved secondary stroke prevention strategies ranged from 11.8% (8.7–14.8) for weight control to 80.0% (74.9–84.9) for glycemic control. From 2001 to 2018, among those without stroke history, there was a significant increase in statin therapy (Ptrend &lt; 0.0001), smoking abstinence (Ptrend = 0.01), and ACE inhibitor/angiotensin receptor blocker treatment for hypertension (Ptrend = 0.04) but a substantial decline in weight control (Ptrend &lt; 0.001). Among those with stroke history, only statin therapy (Ptrend = 0.01) increased significantly over time.During 2001–2018, the achievement of some current guideline-recommended strategies for stroke prevention among U.S. adults with T2D improved but remains a challenge overall. Efforts are needed to improve implementation of strategies for stroke prevention in this population.",
@@ -49,58 +176,6 @@
 					"2022",
 					7,
 					14
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/W4EYSEhQ/items/35DI8H8Q",
-		"type": "article-journal",
-		"container-title": "Journal of Stroke and Cerebrovascular Diseases",
-		"DOI": "10.1016/j.jstrokecerebrovasdis.2022.106908",
-		"ISSN": "1052-3057",
-		"issue": "2",
-		"note": "publisher: Elsevier",
-		"title": "Cost-effectiveness of carotid artery stenting vs endarterectomy: A simulation",
-		"URL": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2022.106908",
-		"volume": "32",
-		"author": [
-			{
-				"family": "Marriott",
-				"given": "Deanna J."
-			},
-			{
-				"family": "Kuo",
-				"given": "Shihchen"
-			},
-			{
-				"family": "Ye",
-				"given": "Wen"
-			},
-			{
-				"family": "Levine",
-				"given": "Deborah A."
-			},
-			{
-				"family": "Herman",
-				"given": "William H."
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					3,
-					23
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023",
-					2,
-					1
 				]
 			]
 		}
@@ -1644,81 +1719,6 @@
 					"2002",
 					12,
 					1
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/W4EYSEhQ/items/4BE8GYAN",
-		"type": "article-journal",
-		"abstract": "Background & AimsWe conducted a meta-analysis to summarize the rates of progression to and regression of nonalcoholic fatty liver (NAFL), nonalcoholic steatohepatitis (NASH), and fibrosis in adults with nonalcoholic fatty liver disease (NAFLD).",
-		"container-title": "Clinical Gastroenterology and Hepatology",
-		"DOI": "10.1016/j.cgh.2022.07.033",
-		"ISSN": "1542-3565",
-		"note": "publisher: Elsevier",
-		"title": "Disease State Transition Probabilities Across the Spectrum of NAFLD: A Systematic Review and Meta-Analysis of Paired Biopsy or Imaging Studies",
-		"URL": "https://doi.org/10.1016/j.cgh.2022.07.033",
-		"author": [
-			{
-				"family": "Le",
-				"given": "Phuc"
-			},
-			{
-				"family": "Payne",
-				"given": "Julia Yang"
-			},
-			{
-				"family": "Zhang",
-				"given": "Lu"
-			},
-			{
-				"family": "Deshpande",
-				"given": "Abhishek"
-			},
-			{
-				"family": "Rothberg",
-				"given": "Michael B."
-			},
-			{
-				"family": "Alkhouri",
-				"given": "Naim"
-			},
-			{
-				"family": "Herman",
-				"given": "William"
-			},
-			{
-				"family": "Hernandez",
-				"given": "Adrian V."
-			},
-			{
-				"family": "Schleicher",
-				"given": "Mary"
-			},
-			{
-				"family": "Ye",
-				"given": "Wen"
-			},
-			{
-				"family": "Dasarathy",
-				"given": "Srinivasan"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					3,
-					25
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2022",
-					8,
-					4
 				]
 			]
 		}
