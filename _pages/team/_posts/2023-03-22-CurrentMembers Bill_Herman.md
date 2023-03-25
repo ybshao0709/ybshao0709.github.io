@@ -4,7 +4,7 @@ category: CurrentMembers
 title: William H. Herman, MD, MPH
 image: herman.png
 role: Professor, Internal Medicine; <br/> Professor, Health Behavior and Health Education; <br/> Research Scientist, Center for Clinical Management Research
-permalink: 'team/bill_Herman'
+permalink: https://sph.umich.edu/faculty-profiles/herman-william.html
 social:
     website: https://sph.umich.edu/faculty-profiles/herman-william.html
     
