@@ -1,5 +1,59 @@
 [
 	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/2W9YUTK9",
+		"type": "article-journal",
+		"abstract": "To assess the national prevalence of and trends in achieving current guideline-recommended treatment goals and pharmacotherapies for primary and secondary prevention of stroke among U.S. adults with type 2 diabetes (T2D).We performed serial cross-sectional analyses in 4,834 adults aged ≥45 years with T2D who participated in the 2001–2018 National Health and Nutrition Examination Survey. With stratification by stroke history, we estimated the proportion of adults with T2D who achieved current guideline-recommended strategies for stroke prevention. Preventive strategies for stroke were benchmarked against diabetes care and cardiovascular risk reduction guidelines.Overall in 2001–2018, among those without stroke history, the proportion who achieved primary stroke prevention strategies ranged from 8.4% (95% CI 6.8–10.1) for aspirin/clopidogrel treatment in those with a higher cardiovascular disease risk to 80.5% (78.8–82.2) for nonsmoking. Among those with stroke history, the proportion who achieved secondary stroke prevention strategies ranged from 11.8% (8.7–14.8) for weight control to 80.0% (74.9–84.9) for glycemic control. From 2001 to 2018, among those without stroke history, there was a significant increase in statin therapy (Ptrend &lt; 0.0001), smoking abstinence (Ptrend = 0.01), and ACE inhibitor/angiotensin receptor blocker treatment for hypertension (Ptrend = 0.04) but a substantial decline in weight control (Ptrend &lt; 0.001). Among those with stroke history, only statin therapy (Ptrend = 0.01) increased significantly over time.During 2001–2018, the achievement of some current guideline-recommended strategies for stroke prevention among U.S. adults with T2D improved but remains a challenge overall. Efforts are needed to improve implementation of strategies for stroke prevention in this population.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/dc21-2283",
+		"ISSN": "0149-5992",
+		"issue": "9",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "2003-2011",
+		"title": "National Trends in the Achievement of Recommended Strategies for Stroke Prevention in U.S. Adults With Type 2 Diabetes, 2001–2018",
+		"URL": "https://doi.org/10.2337/dc21-2283",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Kuo",
+				"given": "Shihchen"
+			},
+			{
+				"family": "Yang",
+				"given": "Chun-Ting"
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			},
+			{
+				"family": "Lisabeth",
+				"given": "Lynda D."
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
 		"id": "http://zotero.org/users/local/W4EYSEhQ/items/35DI8H8Q",
 		"type": "article-journal",
 		"container-title": "Journal of Stroke and Cerebrovascular Diseases",
@@ -52,38 +106,119 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/W4EYSEhQ/items/2W9YUTK9",
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/MWWIU94V",
 		"type": "article-journal",
-		"abstract": "To assess the national prevalence of and trends in achieving current guideline-recommended treatment goals and pharmacotherapies for primary and secondary prevention of stroke among U.S. adults with type 2 diabetes (T2D).We performed serial cross-sectional analyses in 4,834 adults aged ≥45 years with T2D who participated in the 2001–2018 National Health and Nutrition Examination Survey. With stratification by stroke history, we estimated the proportion of adults with T2D who achieved current guideline-recommended strategies for stroke prevention. Preventive strategies for stroke were benchmarked against diabetes care and cardiovascular risk reduction guidelines.Overall in 2001–2018, among those without stroke history, the proportion who achieved primary stroke prevention strategies ranged from 8.4% (95% CI 6.8–10.1) for aspirin/clopidogrel treatment in those with a higher cardiovascular disease risk to 80.5% (78.8–82.2) for nonsmoking. Among those with stroke history, the proportion who achieved secondary stroke prevention strategies ranged from 11.8% (8.7–14.8) for weight control to 80.0% (74.9–84.9) for glycemic control. From 2001 to 2018, among those without stroke history, there was a significant increase in statin therapy (Ptrend &lt; 0.0001), smoking abstinence (Ptrend = 0.01), and ACE inhibitor/angiotensin receptor blocker treatment for hypertension (Ptrend = 0.04) but a substantial decline in weight control (Ptrend &lt; 0.001). Among those with stroke history, only statin therapy (Ptrend = 0.01) increased significantly over time.During 2001–2018, the achievement of some current guideline-recommended strategies for stroke prevention among U.S. adults with T2D improved but remains a challenge overall. Efforts are needed to improve implementation of strategies for stroke prevention in this population.",
-		"container-title": "Diabetes Care",
-		"DOI": "10.2337/dc21-2283",
-		"ISSN": "0149-5992",
-		"issue": "9",
-		"journalAbbreviation": "Diabetes Care",
-		"page": "2003-2011",
-		"title": "National Trends in the Achievement of Recommended Strategies for Stroke Prevention in U.S. Adults With Type 2 Diabetes, 2001–2018",
-		"URL": "https://doi.org/10.2337/dc21-2283",
-		"volume": "45",
+		"abstract": "Aims\nTo develop a set of prediction models for end-stage kidney disease (ESKD), cardiovascular outcomes, and mortality in patients with type 2 diabetes (T2D) and chronic kidney disease (CKD) using commonly measured clinical variables.\nMethods\nWe studied 1432 participants with T2D and CKD enrolled in the Chronic Renal Insufficiency Cohort, followed for a median period of 7 years. We used Cox proportional-hazards models to model the six outcomes (ESKD, stroke, myocardial infarction (MI), congestive heart failure (CHF), death before ESKD, and all-cause mortality). We internally evaluated these models using concordance and calibration measures.\nResults\nThe newly developed six prediction models included 15 predictors: age at diabetes diagnosis, sex, blood pressure, body mass index, hemoglobin A1c, high density lipoprotein cholesterol, urine protein-to-creatinine ratio, estimated glomerular filtration rate, smoking status, and history of stroke, MI, CHF, ESKD, and amputation. The resulting models demonstrated good/strong discrimination (cross-validation C-index range: 0.70 to 0.90) and calibration.\nConclusions\nThis study provided an internally validated and useful tool for predicting individual adverse outcomes and mortality in patients with T2D and CKD. These models may inform optimal use of targeted health interventions.",
+		"container-title": "Journal of Diabetes and its Complications",
+		"DOI": "10.1016/j.jdiacomp.2022.108180",
+		"ISSN": "1056-8727",
+		"issue": "5",
+		"journalAbbreviation": "Journal of Diabetes and its Complications",
+		"page": "108180",
+		"title": "Development of clinical prediction models for renal and cardiovascular outcomes and mortality in patients with type 2 diabetes and chronic kidney disease using time-varying predictors",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1056872722000745",
+		"volume": "36",
 		"author": [
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Ding",
+				"given": "Xuemei"
+			},
+			{
+				"family": "Putnam",
+				"given": "Nathaniel"
+			},
+			{
+				"family": "Farej",
+				"given": "Ryan"
+			},
+			{
+				"family": "Singh",
+				"given": "Rakesh"
+			},
+			{
+				"family": "Wang",
+				"given": "Di"
+			},
 			{
 				"family": "Kuo",
 				"given": "Shihchen"
 			},
 			{
-				"family": "Yang",
-				"given": "Chun-Ting"
+				"family": "Kong",
+				"given": "Sheldon X."
+			},
+			{
+				"family": "Elliott",
+				"given": "Jay C."
+			},
+			{
+				"family": "Lott",
+				"given": "Jason"
 			},
 			{
 				"family": "Herman",
 				"given": "William H."
-			},
-			{
-				"family": "Lisabeth",
-				"given": "Lynda D."
-			},
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/UUEJVBQY",
+		"type": "article-journal",
+		"abstract": "To simulate the long-term cost-effectiveness of a peer leader (PL)–led diabetes self-management support (DSMS) program following a structured community health worker (CHW)–led diabetes self-management education (DSME) program in reducing risks of complications in people with type 2 diabetes (T2D).The trial randomized 222 Latino adults with T2D to 1) enhanced usual care (EUC); 2) a CHW-led, 6-month DSME program and 6 months of CHW-delivered monthly telephone outreach (CHW only); or 3) a CHW-led, 6-month DSME program and 12 months of PL-delivered weekly group sessions with telephone outreach to those unable to attend (CHW + PL). Empirical data from the trial and the validated Michigan Model for Diabetes were used to estimate cost and health outcomes over a 20-year time horizon from a health care sector perspective, discounting both costs and benefits at 3% annually. The primary outcome measure was the incremental cost-effectiveness ratio (ICER).Over 20 years, the CHW + PL intervention had an ICER of $28,800 and $5,900 per quality-adjusted life-year (QALY) gained compared with the EUC and CHW-only interventions, respectively. The CHW-only intervention had an ICER of $430,600 per QALY gained compared with the EUC intervention. In sensitivity analyses, the results comparing the CHW + PL with EUC and CHW-only interventions were robust to changes in intervention effects and costs.The CHW + PL–led DSME/DSMS intervention improved health and provided good value compared with the EUC intervention. The 6-month CHW-led DSME intervention without further postintervention CHW support was not cost effective in Latino adults with T2D.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/dc20-0307",
+		"ISSN": "0149-5992",
+		"issue": "5",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "1108-1115",
+		"title": "Cost-Effectiveness of a Diabetes Self-Management Education and Support Intervention Led by Community Health Workers and Peer Leaders: Projections From the Racial and Ethnic Approaches to Community Health Detroit Trial",
+		"URL": "https://doi.org/10.2337/dc20-0307",
+		"volume": "44",
+		"author": [
 			{
 				"family": "Ye",
 				"given": "Wen"
+			},
+			{
+				"family": "Kuo",
+				"given": "Shihchen"
+			},
+			{
+				"family": "Kieffer",
+				"given": "Edith C."
+			},
+			{
+				"family": "Piatt",
+				"given": "Gretchen"
+			},
+			{
+				"family": "Sinco",
+				"given": "Brandy"
+			},
+			{
+				"family": "Palmisano",
+				"given": "Gloria"
+			},
+			{
+				"family": "Spencer",
+				"given": "Michael S."
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
 			}
 		],
 		"accessed": {
@@ -91,7 +226,1490 @@
 				[
 					"2023",
 					3,
-					24
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/QHUCICIZ",
+		"type": "article-journal",
+		"abstract": "We estimated the cost-effectiveness of the Program ACTIVE (Adults Coming Together to Increase Vital Exercise) II community-based exercise (EXER), cognitive behavioral therapy (CBT), and EXER+CBT interventions in adults with type 2 diabetes and depression relative to usual care (UC) and each other.Data were integrated into the Michigan Model for Diabetes to estimate cost and health outcomes over a 10-year simulation time horizon from the health care sector and societal perspectives, discounting costs and benefits at 3% annually. Primary outcome was cost per quality-adjusted life-year (QALY) gained.From the health care sector perspective, the EXER intervention strategy saved $313 (USD) per patient and produced 0.38 more QALY (cost saving), the CBT intervention strategy cost $596 more and gained 0.29 more QALY ($2,058/QALY), and the EXER+CBT intervention strategy cost $403 more and gained 0.69 more QALY ($585/QALY) compared with UC. Both EXER and EXER+CBT interventions dominated the CBT intervention. Compared with EXER, the EXER+CBT intervention strategy cost $716 more and gained 0.31 more QALY ($2,323/QALY). From the societal perspective, compared with UC, the EXER intervention strategy saved $126 (cost saving), the CBT intervention strategy cost $2,838/QALY, and the EXER+CBT intervention strategy cost $1,167/QALY. Both EXER and EXER+CBT interventions still dominated the CBT intervention. In comparison with EXER, the EXER+CBT intervention strategy cost $3,021/QALY. Results were robust in sensitivity analyses.All three Program ACTIVE II interventions represented a good value for money compared with UC. The EXER+CBT intervention was highly cost-effective or cost saving compared with the CBT or EXER interventions.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/dc20-1639",
+		"ISSN": "0149-5992",
+		"issue": "4",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "874-882",
+		"title": "Cost-effectiveness of Community-Based Depression Interventions for Rural and Urban Adults With Type 2 Diabetes: Projections From Program ACTIVE (Adults Coming Together to Increase Vital Exercise) II",
+		"URL": "https://doi.org/10.2337/dc20-1639",
+		"volume": "44",
+		"author": [
+			{
+				"family": "Kuo",
+				"given": "Shihchen"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Groot",
+				"given": "Mary",
+				"non-dropping-particle": "de"
+			},
+			{
+				"family": "Saha",
+				"given": "Chandan"
+			},
+			{
+				"family": "Shubrook",
+				"given": "Jay H."
+			},
+			{
+				"family": "Hornsby",
+				"given": "W. Guyton",
+				"suffix": "Jr."
+			},
+			{
+				"family": "Pillay",
+				"given": "Yegan"
+			},
+			{
+				"family": "Mather",
+				"given": "Kieren J."
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/CIMY2QFJ",
+		"type": "article-journal",
+		"abstract": "BACKGROUND: Structural uncertainty can affect model-based economic simulation estimates and study conclusions. Unfortunately, unlike parameter uncertainty, relatively little is known about its magnitude of impact on life-years (LYs) and quality-adjusted life-years (QALYs) in modeling of diabetes. We leveraged the Mount Hood Diabetes Challenge Network, a biennial conference attended by international diabetes modeling groups, to assess structural uncertainty in simulating QALYs in type 2 diabetes simulation models. METHODS: Eleven type 2 diabetes simulation modeling groups participated in the 9th Mount Hood Diabetes Challenge. Modeling groups simulated 5 diabetes-related intervention profiles using predefined baseline characteristics and a standard utility value set for diabetes-related complications. LYs and QALYs were reported. Simulations were repeated using lower and upper limits of the 95% confidence intervals of utility inputs. Changes in LYs and QALYs from tested interventions were compared across models. Additional analyses were conducted postchallenge to investigate drivers of cross-model differences. RESULTS: Substantial cross-model variability in incremental LYs and QALYs was observed, particularly for HbA1c and body mass index (BMI) intervention profiles. For a 0.5%-point permanent HbA1c reduction, LY gains ranged from 0.050 to 0.750. For a 1-unit permanent BMI reduction, incremental QALYs varied from a small decrease in QALYs (-0.024) to an increase of 0.203. Changes in utility values of health states had a much smaller impact (to the hundredth of a decimal place) on incremental QALYs. Microsimulation models were found to generate a mean of 3.41 more LYs than cohort simulation models (P = 0.049). CONCLUSIONS: Variations in utility values contribute to a lesser extent than uncertainty captured as structural uncertainty. These findings reinforce the importance of assessing structural uncertainty thoroughly because the choice of model (or models) can influence study results, which can serve as evidence for resource allocation decisions.HighlightsThe findings indicate substantial cross-model variability in QALY predictions for a standardized set of simulation scenarios and is considerably larger than within model variability to alternative health state utility values (e.g., lower and upper limits of the 95% confidence intervals of utility inputs).There is a need to understand and assess structural uncertainty, as the choice of model to inform resource allocation decisions can matter more than the choice of health state utility values.",
+		"container-title": "Med. Decis. Making",
+		"DOI": "10.1177/0272989X211065479",
+		"ISSN": "0272-989X",
+		"issue": "5",
+		"note": "publisher: SAGE Publications",
+		"page": "599-611",
+		"title": "Exploring structural uncertainty and impact of health state utility values on lifetime outcomes in diabetes economic simulation models: Findings from the ninth Mount Hood diabetes quality-of-life challenge",
+		"URL": "http://dx.doi.org/10.1177/0272989X211065479",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Tew",
+				"given": "Michelle"
+			},
+			{
+				"family": "Willis",
+				"given": "Michael"
+			},
+			{
+				"family": "Asseburg",
+				"given": "Christian"
+			},
+			{
+				"family": "Bennett",
+				"given": "Hayley"
+			},
+			{
+				"family": "Brennan",
+				"given": "Alan"
+			},
+			{
+				"family": "Feenstra",
+				"given": "Talitha"
+			},
+			{
+				"family": "Gahn",
+				"given": "James"
+			},
+			{
+				"family": "Gray",
+				"given": "Alastair"
+			},
+			{
+				"family": "Heathcote",
+				"given": "Laura"
+			},
+			{
+				"family": "Herman",
+				"given": "William H"
+			},
+			{
+				"family": "Isaman",
+				"given": "Deanna"
+			},
+			{
+				"family": "Kuo",
+				"given": "Shihchen"
+			},
+			{
+				"family": "Lamotte",
+				"given": "Mark"
+			},
+			{
+				"family": "Leal",
+				"given": "José"
+			},
+			{
+				"family": "McEwan",
+				"given": "Phil"
+			},
+			{
+				"family": "Nilsson",
+				"given": "Andreas"
+			},
+			{
+				"family": "Palmer",
+				"given": "Andrew J"
+			},
+			{
+				"family": "Patel",
+				"given": "Rishi"
+			},
+			{
+				"family": "Pollard",
+				"given": "Daniel"
+			},
+			{
+				"family": "Ramos",
+				"given": "Mafalda"
+			},
+			{
+				"family": "Sailer",
+				"given": "Fabian"
+			},
+			{
+				"family": "Schramm",
+				"given": "Wendelin"
+			},
+			{
+				"family": "Shao",
+				"given": "Hui"
+			},
+			{
+				"family": "Shi",
+				"given": "Lizheng"
+			},
+			{
+				"family": "Si",
+				"given": "Lei"
+			},
+			{
+				"family": "Smolen",
+				"given": "Harry J"
+			},
+			{
+				"family": "Thomas",
+				"given": "Chloe"
+			},
+			{
+				"family": "Tran-Duy",
+				"given": "An"
+			},
+			{
+				"family": "Yang",
+				"given": "Chunting"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Yu",
+				"given": "Xueting"
+			},
+			{
+				"family": "Zhang",
+				"given": "Ping"
+			},
+			{
+				"family": "Clarke",
+				"given": "Philip"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/EA9NYHVV",
+		"type": "article-journal",
+		"abstract": "AIMS: People with type 2 diabetes (T2DM) have an increased risk of transient ischemic attack and minor stroke (TIA) which are frequently followed by an ischemic stroke. We aimed to develop a predictive model for incident TIA in people with T2DM. METHODS: We pooled data from two longitudinal cohort studies, Atherosclerosis Risk in Communities (ARIC) and the Cardiovascular Health Study (CHS), using a two-stage approach. First, we used a random effects model to interpolate risk factors of individuals between follow-up exams. Second, we used forward selection to develop a proportional hazards model for time to incident TIA. We internally validated our model using 10-fold cross-validation. RESULTS: Among 3575 participants with T2DM, mean (SD) age was 60 (10) years and body mass index was 30 (6) kg/m2. Sixty-nine incident TIAs occurred during 38,364 person-years of follow-up. The multivariable model included age at diagnosis of diabetes (hazard ratio 1.13 (95% confidence interval: 1.05,1.21) per year), systolic blood pressure (1.25 (1.04,1.49) per 10 mmHg), a quadratic function of diastolic blood pressure, and history of congestive heart failure (2.08 (1.26, 3.42)). The median cross-validated Harrell's C-index was 0.80. CONCLUSION: Blood pressure and heart failure are risk factors for the earliest stages of cerebrovascular disease.",
+		"container-title": "J. Diabetes Complications",
+		"DOI": "10.1016/j.jdiacomp.2021.107911",
+		"ISSN": "1056-8727",
+		"issue": "7",
+		"note": "publisher: Elsevier BV",
+		"page": "107911",
+		"title": "Prediction of transient ischemic attack and minor stroke in people with type 2 diabetes mellitus",
+		"URL": "http://dx.doi.org/10.1016/j.jdiacomp.2021.107911",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Isaman",
+				"given": "Deanna J M"
+			},
+			{
+				"family": "Herman",
+				"given": "William H"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/KPS25ARN",
+		"type": "article-journal",
+		"abstract": "OBJECTIVE: The 23-valent pneumococcal polysaccharide vaccine is routinely recommended for adults with diabetes, but little is known about adherence to this recommendation and how vaccination of these adults affects costs related to pneumococcal disease. RESEARCH DESIGN AND METHODS: We used data from a commercial insurance claims dataset to examine a cohort of non-elderly adults with a new diagnosis of diabetes and adults with no diagnosis of diabetes from 2005 to 2014. We examined rates of pneumococcal polysaccharide vaccination and the relationship between vaccination and pneumococcal disease costs, comparing results for persons with a diagnosis of diabetes and those with no diagnosis of diabetes. RESULTS: Overall rates of pneumococcal polysaccharide vaccination among adults 30-60 years old were <1%/year. Rates of pneumococcal polysaccharide vaccination were higher for adults with diabetes. Pneumococcal polysaccharide vaccination rates more than doubled from 2.9% per year in 2005 to 6.0% per year in 2014 for adults vaccinated during the same year as their diabetes diagnosis. Using a two-part differences-in-differences model on a propensity-score matched dataset, pneumococcal polysaccharide vaccination may reduce average annual per-person pneumococcal disease costs by $90.54 [95% CI: $183.59, -$2.49, (p = 0.056)] in persons with diabetes from two years before to two years after vaccination. CONCLUSIONS: Non-elderly adults with diabetes have low but rising rates of pneumococcal polysaccharide vaccination. Pneumococcal polysaccharide vaccination has a modest impact reducing overall costs of pneumococcal disease in this population.",
+		"container-title": "Vaccine",
+		"DOI": "10.1016/j.vaccine.2020.11.060",
+		"ISSN": "0264-410X",
+		"issue": "8",
+		"note": "publisher: Elsevier BV",
+		"page": "1333-1338",
+		"title": "Costs implications of pneumococcal vaccination of adults aged 30-60 with a recent diagnosis of diabetes",
+		"URL": "http://dx.doi.org/10.1016/j.vaccine.2020.11.060",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Hutton",
+				"given": "David W"
+			},
+			{
+				"family": "McCullough",
+				"given": "Jeffrey S"
+			},
+			{
+				"family": "Prosser",
+				"given": "Lisa"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Herman",
+				"given": "William H"
+			},
+			{
+				"family": "Zhang",
+				"given": "Ping"
+			},
+			{
+				"family": "Pilishvili",
+				"given": "Tamara"
+			},
+			{
+				"family": "Pike",
+				"given": "Jamison"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/2VTPZUVY",
+		"type": "article-journal",
+		"abstract": "Objectives\nThe cardiovascular outcomes challenge examined the predictive accuracy of 10 diabetes models in estimating hard outcomes in 2 recent cardiovascular outcomes trials (CVOTs) and whether recalibration can be used to improve replication.\nMethods\nParticipating groups were asked to reproduce the results of the Empagliflozin Cardiovascular Outcome Event Trial in Type 2 Diabetes Mellitus Patients (EMPA-REG OUTCOME) and the Canagliflozin Cardiovascular Assessment Study (CANVAS) Program. Calibration was performed and additional analyses assessed model ability to replicate absolute event rates, hazard ratios (HRs), and the generalizability of calibration across CVOTs within a drug class.\nResults\nTen groups submitted results. Models underestimated treatment effects (ie, HRs) using uncalibrated models for both trials. Calibration to the placebo arm of EMPA-REG OUTCOME greatly improved the prediction of event rates in the placebo, but less so in the active comparator arm. Calibrating to both arms of EMPA-REG OUTCOME individually enabled replication of the observed outcomes. Using EMPA-REG OUTCOME–calibrated models to predict CANVAS Program outcomes was an improvement over uncalibrated models but failed to capture treatment effects adequately. Applying canagliflozin HRs directly provided the best fit.\nConclusions\nThe Ninth Mount Hood Diabetes Challenge demonstrated that commonly used risk equations were generally unable to capture recent CVOT treatment effects but that calibration of the risk equations can improve predictive accuracy. Although calibration serves as a practical approach to improve predictive accuracy for CVOT outcomes, it does not extrapolate generally to other settings, time horizons, and comparators. New methods and/or new risk equations for capturing these CV benefits are needed.",
+		"container-title": "Value in Health",
+		"DOI": "10.1016/j.jval.2020.04.1832",
+		"ISSN": "1098-3015",
+		"issue": "9",
+		"journalAbbreviation": "Value in Health",
+		"page": "1163-1170",
+		"title": "Evaluating the Ability of Economic Models of Diabetes to Simulate New Cardiovascular Outcomes Trials: A Report on the Ninth Mount Hood Diabetes Challenge",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1098301520321124",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Si",
+				"given": "Lei"
+			},
+			{
+				"family": "Willis",
+				"given": "Michael S."
+			},
+			{
+				"family": "Asseburg",
+				"given": "Christian"
+			},
+			{
+				"family": "Nilsson",
+				"given": "Andreas"
+			},
+			{
+				"family": "Tew",
+				"given": "Michelle"
+			},
+			{
+				"family": "Clarke",
+				"given": "Philip M."
+			},
+			{
+				"family": "Lamotte",
+				"given": "Mark"
+			},
+			{
+				"family": "Ramos",
+				"given": "Mafalda"
+			},
+			{
+				"family": "Shao",
+				"given": "Hui"
+			},
+			{
+				"family": "Shi",
+				"given": "Lizheng"
+			},
+			{
+				"family": "Zhang",
+				"given": "Ping"
+			},
+			{
+				"family": "McEwan",
+				"given": "Phil"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			},
+			{
+				"family": "Kuo",
+				"given": "Shihchen"
+			},
+			{
+				"family": "Isaman",
+				"given": "Deanna J."
+			},
+			{
+				"family": "Schramm",
+				"given": "Wendelin"
+			},
+			{
+				"family": "Sailer",
+				"given": "Fabian"
+			},
+			{
+				"family": "Brennan",
+				"given": "Alan"
+			},
+			{
+				"family": "Pollard",
+				"given": "Daniel"
+			},
+			{
+				"family": "Smolen",
+				"given": "Harry J."
+			},
+			{
+				"family": "Leal",
+				"given": "José"
+			},
+			{
+				"family": "Gray",
+				"given": "Alastair"
+			},
+			{
+				"family": "Patel",
+				"given": "Rishi"
+			},
+			{
+				"family": "Feenstra",
+				"given": "Talitha"
+			},
+			{
+				"family": "Palmer",
+				"given": "Andrew J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/JB3P9F3R",
+		"type": "article-journal",
+		"abstract": "Transparency in health economic decision modelling is important for engendering confidence in the models and in the reliability of model-based cost-effectiveness analyses. The Mount Hood Diabetes Challenge Network has taken a lead in promoting transparency through validation with biennial conferences in which diabetes modelling groups meet to compare simulated outcomes of pre-specified scenarios often based on the results of pivotal clinical trials. Model registration is a potential method for promoting transparency, while also reducing the duplication of effort. An important network initiative is the ongoing construction of a diabetes model registry (https://www.mthooddiabeteschallenge.com). Following the 2012 International Society for Pharmacoeconomics and Outcomes Research and the Society of Medical Decision Making (ISPOR-SMDM) guidelines, we recommend that modelling groups provide technical and non-technical documentation sufficient to enable model reproduction, but not necessarily provide the model code. We also request that modelling groups upload documentation on the methods and outcomes of validation efforts, and run reference case simulations so that model outcomes can be compared. In this paper, we discuss conflicting definitions of transparency in health economic modelling, and describe the ongoing development of a registry of economic models for diabetes through the Mount Hood Diabetes Challenge Network, its objectives and potential further developments, and highlight the challenges in its construction and maintenance. The support of key stakeholders such as decision-making bodies and journals is key to ensuring the success of this and other registries. In the absence of public funding, the development of a network of modellers is of huge value in enhancing transparency, whether through registries or other means.",
+		"container-title": "Pharmacoeconomics",
+		"DOI": "10.1007/s40273-019-00825-1",
+		"ISSN": "1170-7690",
+		"issue": "11",
+		"note": "publisher: Springer Science and Business Media LLC",
+		"page": "1305-1312",
+		"title": "The challenge of transparency and validation in health economic decision modelling: A view from Mount Hood",
+		"URL": "http://dx.doi.org/10.1007/s40273-019-00825-1",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Kent",
+				"given": "Seamus"
+			},
+			{
+				"family": "Becker",
+				"given": "Frauke"
+			},
+			{
+				"family": "Feenstra",
+				"given": "Talitha"
+			},
+			{
+				"family": "Tran-Duy",
+				"given": "An"
+			},
+			{
+				"family": "Schlackow",
+				"given": "Iryna"
+			},
+			{
+				"family": "Tew",
+				"given": "Michelle"
+			},
+			{
+				"family": "Zhang",
+				"given": "Ping"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Lizheng",
+				"given": "Shi"
+			},
+			{
+				"family": "Herman",
+				"given": "William"
+			},
+			{
+				"family": "McEwan",
+				"given": "Phil"
+			},
+			{
+				"family": "Schramm",
+				"given": "Wendelin"
+			},
+			{
+				"family": "Gray",
+				"given": "Alastair"
+			},
+			{
+				"family": "Leal",
+				"given": "Jose"
+			},
+			{
+				"family": "Lamotte",
+				"given": "Mark"
+			},
+			{
+				"family": "Willis",
+				"given": "Michael"
+			},
+			{
+				"family": "Palmer",
+				"given": "Andrew J"
+			},
+			{
+				"family": "Clarke",
+				"given": "Philip"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/W6Z2YJU6",
+		"type": "article-journal",
+		"container-title": "Diabetes Research and Clinical Practice",
+		"DOI": "10.1016/j.diabres.2018.04.040",
+		"ISSN": "0168-8227",
+		"note": "publisher: Elsevier",
+		"page": "181-189",
+		"title": "Are the favorable cardiovascular outcomes of empagliflozin treatment explained by its effects on multiple cardiometabolic risk factors? A simulation of the results of the EMPA-REG OUTCOME trial",
+		"URL": "https://doi.org/10.1016/j.diabres.2018.04.040",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Kuo",
+				"given": "Shihchen"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Duong",
+				"given": "Justin"
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/NG6S9WV9",
+		"type": "article-journal",
+		"abstract": "Objectives\nThe Eighth Mount Hood Challenge (held in St. Gallen, Switzerland, in September 2016) evaluated the transparency of model input documentation from two published health economics studies and developed guidelines for improving transparency in the reporting of input data underlying model-based economic analyses in diabetes.\nMethods\nParticipating modeling groups were asked to reproduce the results of two published studies using the input data described in those articles. Gaps in input data were filled with assumptions reported by the modeling groups. Goodness of fit between the results reported in the target studies and the groups’ replicated outputs was evaluated using the slope of linear regression line and the coefficient of determination (R2). After a general discussion of the results, a diabetes-specific checklist for the transparency of model input was developed.\nResults\nSeven groups participated in the transparency challenge. The reporting of key model input parameters in the two studies, including the baseline characteristics of simulated patients, treatment effect and treatment intensification threshold assumptions, treatment effect evolution, prediction of complications and costs data, was inadequately transparent (and often missing altogether). Not surprisingly, goodness of fit was better for the study that reported its input data with more transparency. To improve the transparency in diabetes modeling, the Diabetes Modeling Input Checklist listing the minimal input data required for reproducibility in most diabetes modeling applications was developed.\nConclusions\nTransparency of diabetes model inputs is important to the reproducibility and credibility of simulation results. In the Eighth Mount Hood Challenge, the Diabetes Modeling Input Checklist was developed with the goal of improving the transparency of input data reporting and reproducibility of diabetes simulation model results.",
+		"container-title": "Value in Health",
+		"DOI": "10.1016/j.jval.2018.02.002",
+		"ISSN": "1098-3015",
+		"issue": "6",
+		"journalAbbreviation": "Value in Health",
+		"page": "724-731",
+		"title": "Computer Modeling of Diabetes and Its Transparency: A Report on the Eighth Mount Hood Challenge",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1098301518302353",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Palmer",
+				"given": "Andrew J."
+			},
+			{
+				"family": "Si",
+				"given": "Lei"
+			},
+			{
+				"family": "Tew",
+				"given": "Michelle"
+			},
+			{
+				"family": "Hua",
+				"given": "Xinyang"
+			},
+			{
+				"family": "Willis",
+				"given": "Michael S."
+			},
+			{
+				"family": "Asseburg",
+				"given": "Christian"
+			},
+			{
+				"family": "McEwan",
+				"given": "Phil"
+			},
+			{
+				"family": "Leal",
+				"given": "José"
+			},
+			{
+				"family": "Gray",
+				"given": "Alastair"
+			},
+			{
+				"family": "Foos",
+				"given": "Volker"
+			},
+			{
+				"family": "Lamotte",
+				"given": "Mark"
+			},
+			{
+				"family": "Feenstra",
+				"given": "Talitha"
+			},
+			{
+				"family": "O’Connor",
+				"given": "Patrick J."
+			},
+			{
+				"family": "Brandle",
+				"given": "Michael"
+			},
+			{
+				"family": "Smolen",
+				"given": "Harry J."
+			},
+			{
+				"family": "Gahn",
+				"given": "James C."
+			},
+			{
+				"family": "Valentine",
+				"given": "William J."
+			},
+			{
+				"family": "Pollock",
+				"given": "Richard F."
+			},
+			{
+				"family": "Breeze",
+				"given": "Penny"
+			},
+			{
+				"family": "Brennan",
+				"given": "Alan"
+			},
+			{
+				"family": "Pollard",
+				"given": "Daniel"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			},
+			{
+				"family": "Isaman",
+				"given": "Deanna J."
+			},
+			{
+				"family": "Kuo",
+				"given": "Shihchen"
+			},
+			{
+				"family": "Laiteerapong",
+				"given": "Neda"
+			},
+			{
+				"family": "Tran-Duy",
+				"given": "An"
+			},
+			{
+				"family": "Clarke",
+				"given": "Philip M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/DDXYSJ9B",
+		"type": "article-journal",
+		"abstract": "Both lifestyle and metformin interventions can delay or prevent progression to type 2 diabetes mellitus (DM) in people with impaired glucose regulation, but there is considerable interindividual variation in the likelihood of receiving benefit. Understanding an individual’s 3-year risk of progressing to DM and regressing to normal glucose regulation (NGR) might facilitate benefit-based tailored treatment.We used the values of 19 clinical variables measured at the Diabetes Prevention Program (DPP) baseline evaluation and Cox proportional hazards models to assess the 3-year risk of progression to DM and regression to NGR separately for DPP lifestyle, metformin, and placebo participants who were adherent to the interventions. Lifestyle participants who lost ≥5% of their initial body weight at 6 months and metformin and placebo participants who reported taking ≥80% of their prescribed medication at the 6-month follow-up were defined as adherent.Eleven of 19 clinical variables measured at baseline predicted progression to DM, and 6 of 19 predicted regression to NGR. Compared with adherent placebo participants at lowest risk of developing diabetes, participants at lowest risk of developing diabetes who adhered to a lifestyle intervention had an 8% absolute risk reduction (ARR) of developing diabetes and a 35% greater absolute likelihood of reverting to NGR. Participants at lowest risk of developing diabetes who adhered to a metformin intervention had no reduction in their risk of developing diabetes and a 17% greater absolute likelihood of reverting to NGR. Participants at highest risk of developing DM who adhered to a lifestyle intervention had a 39% ARR of developing diabetes and a 24% greater absolute likelihood of reverting to NGR, whereas those who adhered to the metformin intervention had a 25% ARR of developing diabetes and an 11% greater absolute likelihood of reverting to NGR.Unlike our previous analyses that sought to explain population risk, these analyses evaluate individual risk. The models can be used by overweight and obese adults with fasting hyperglycemia and impaired glucose tolerance to facilitate personalized decision-making by allowing them to explicitly weigh the benefits and feasibility of the lifestyle and metformin interventions.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/dc17-1116",
+		"ISSN": "0149-5992",
+		"issue": "12",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "1668-1677",
+		"title": "Impact of Lifestyle and Metformin Interventions on the Risk of Progression to Diabetes and Regression to Normal Glucose Regulation in Overweight or Obese People With Impaired Glucose Regulation",
+		"URL": "https://doi.org/10.2337/dc17-1116",
+		"volume": "40",
+		"author": [
+			{
+				"family": "Herman",
+				"given": "William H."
+			},
+			{
+				"family": "Pan",
+				"given": "Qing"
+			},
+			{
+				"family": "Edelstein",
+				"given": "Sharon L."
+			},
+			{
+				"family": "Mather",
+				"given": "Kieren J."
+			},
+			{
+				"family": "Perreault",
+				"given": "Leigh"
+			},
+			{
+				"family": "Barrett-Connor",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Dabelea",
+				"given": "Dana M."
+			},
+			{
+				"family": "Horton",
+				"given": "Edward"
+			},
+			{
+				"family": "Kahn",
+				"given": "Steven E."
+			},
+			{
+				"family": "Knowler",
+				"given": "William C."
+			},
+			{
+				"family": "Lorenzo",
+				"given": "Carlos"
+			},
+			{
+				"family": "Pi-Sunyer",
+				"given": "Xavier"
+			},
+			{
+				"family": "Venditti",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"literal": "for the Diabetes Prevention Program Research Group"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/57E5FX9K",
+		"type": "article-journal",
+		"abstract": "To estimate the benefits of screening and early treatment of type 2 diabetes compared with no screening and late treatment using a simulation model with data from the ADDITION-Europe study.We used the Michigan Model, a validated computer simulation model, and data from the ADDITION-Europe study to estimate the absolute risk of cardiovascular outcomes and the relative risk reduction associated with screening and intensive treatment, screening and routine treatment, and no screening with a 3- or 6-year delay in the diagnosis and routine treatment of diabetes and cardiovascular risk factors.When the computer simulation model was programmed with the baseline demographic and clinical characteristics of the ADDITION-Europe population, it accurately predicted the empiric results of the trial. The simulated absolute risk reduction and relative risk reduction were substantially greater at 5 years with screening, early diagnosis, and routine treatment compared with scenarios in which there was a 3-year (3.3% absolute risk reduction [ARR], 29% relative risk reduction [RRR]) or a 6-year (4.9% ARR, 38% RRR) delay in diagnosis and routine treatment of diabetes and cardiovascular risk factors.Major benefits are likely to accrue from the early diagnosis and treatment of glycemia and cardiovascular risk factors in type 2 diabetes. The intensity of glucose, blood pressure, and cholesterol treatment after diagnosis is less important than the time of its initiation. Screening for type 2 diabetes to reduce the lead time between diabetes onset and clinical diagnosis and to allow for prompt multifactorial treatment is warranted.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/dc14-2459",
+		"ISSN": "0149-5992",
+		"issue": "8",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "1449-1455",
+		"title": "Early Detection and Treatment of Type 2 Diabetes Reduce Cardiovascular Morbidity and Mortality: A Simulation of the Results of the Anglo-Danish-Dutch Study of Intensive Treatment in People With Screen-Detected Diabetes in Primary Care (ADDITION-Europe)",
+		"URL": "https://doi.org/10.2337/dc14-2459",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Herman",
+				"given": "William H."
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Griffin",
+				"given": "Simon J."
+			},
+			{
+				"family": "Simmons",
+				"given": "Rebecca K."
+			},
+			{
+				"family": "Davies",
+				"given": "Melanie J."
+			},
+			{
+				"family": "Khunti",
+				"given": "Kamlesh"
+			},
+			{
+				"family": "Rutten",
+				"given": "Guy E.H.M."
+			},
+			{
+				"family": "Sandbaek",
+				"given": "Annelli"
+			},
+			{
+				"family": "Lauritzen",
+				"given": "Torsten"
+			},
+			{
+				"family": "Borch-Johnsen",
+				"given": "Knut"
+			},
+			{
+				"family": "Brown",
+				"given": "Morton B."
+			},
+			{
+				"family": "Wareham",
+				"given": "Nicholas J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/M8PL249T",
+		"type": "article-journal",
+		"abstract": "OBJECTIVES: The aim of this study was to develop and validate a computer simulation model for coronary heart disease (CHD) in type 2 diabetes mellitus (T2DM) that reflects current medical and surgical treatments. RESEARCH DESIGN AND METHODS: We modified the structure of the CHD submodel in the Michigan Model for Diabetes to allow for revascularization procedures before and after first myocardial infarction, for repeat myocardial infarctions and repeat revascularization procedures, and for congestive heart failure. Transition probabilities that reflect the direct effects of medical and surgical therapies on outcomes were derived from the literature and calibrated to recently published population-based epidemiologic studies and randomized controlled clinical trials. Monte Carlo techniques were used to implement a discrete-state and discrete-time multistate microsimulation model. Performance of the model was assessed using internal and external validation. Simple regression analysis (simulated outcome=b(0)+b(1)×published outcome) was used to evaluate the validation results. RESULTS: For the 21 outcomes in the six studies used for internal validation, R(2) was 0.99, and the slope of the regression line was 0.98. For the 16 outcomes in the five studies used for external validation, R(2) was 0.81, and the slope was 0.84. CONCLUSIONS: Our new computer simulation model predicted the progression of CHD in patients with T2DM and will be incorporated into the Michigan Model for Diabetes to assess the cost-effectiveness of alternative strategies to prevent and treat T2DM.",
+		"container-title": "Diabetes Technol. Ther.",
+		"DOI": "10.1089/dia.2014.0304",
+		"ISSN": "1520-9156",
+		"issue": "10",
+		"note": "publisher: Mary Ann Liebert Inc",
+		"page": "701-711",
+		"title": "The Michigan Model for coronary heart disease in type 2 diabetes: Development and validation",
+		"URL": "http://dx.doi.org/10.1089/dia.2014.0304",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Brandle",
+				"given": "Michael"
+			},
+			{
+				"family": "Brown",
+				"given": "Morton B"
+			},
+			{
+				"family": "Herman",
+				"given": "William H"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/ND86AB7E",
+		"type": "article-journal",
+		"abstract": "OBJECTIVES: To estimate the direct medical costs associated with type 2 diabetes, its complications, and its comorbidities among U.S. managed care patients. STUDY DESIGN: Data were from patient surveys, chart reviews, and health insurance claims for 7109 people with type 2 diabetes from 8 health plans participating in the Translating Research Into Action for Diabetes (TRIAD) study between 1999 and 2002. METHODS: A generalized linear regression model was developed to estimate the association of patients' demographic characteristics, tobacco use status, treatments, related complications, and comorbidities with medical costs. RESULTS: The mean annualized direct medical cost was $2465 for a white man with type 2 diabetes who had been diagnosed fewer than 15 years earlier, was treated with oral medication or diet alone, and had no complications or comorbidities. We found annualized medical costs to be 10% to 50% higher for women and for patients whose diabetes had been diagnosed 15 or more years earlier, who used tobacco, who were being treated with insulin, or who had several other complications. Coronary heart disease, congestive heart failure, hemiplegia, and amputation were each associated with 70% to 150% higher costs. Costs were approximately 300% higher for end-stage renal disease treated with dialysis and approximately 500% higher for end-stage renal disease with kidney transplantation. CONCLUSIONS: Most medical costs incurred by patients with type 2 diabetes are related to complications and comorbidities. Our cost estimates can help when determining the most cost-effective interventions to prevent complications and comorbidities.",
+		"container-title": "Am. J. Manag. Care",
+		"ISSN": "1088-0224",
+		"issue": "5",
+		"page": "421-430",
+		"title": "Medical costs associated with type 2 diabetes complications and comorbidities",
+		"URL": "https://www.ncbi.nlm.nih.gov/pubmed/23781894",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Rui"
+			},
+			{
+				"family": "Bilik",
+				"given": "Dori"
+			},
+			{
+				"family": "Brown",
+				"given": "Morton B"
+			},
+			{
+				"family": "Zhang",
+				"given": "Ping"
+			},
+			{
+				"family": "Ettner",
+				"given": "Susan L"
+			},
+			{
+				"family": "Ackermann",
+				"given": "Ronald T"
+			},
+			{
+				"family": "Crosson",
+				"given": "Jesse C"
+			},
+			{
+				"family": "Herman",
+				"given": "William H"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/MD57AX2P",
+		"type": "article-journal",
+		"abstract": "To estimate the health utility scores associated with type 2 diabetes, its treatments, complications, and comorbidities.We analyzed health-related quality-of-life data, collected at baseline during Translating Research Into Action for Diabetes, a multicenter, prospective, observational study of diabetes care in managed care, for 7,327 individuals with type 2 diabetes. We measured quality-of-life using the EuroQol (EQ)-5D, a standardized instrument for which 1.00 indicates perfect health. We used multivariable regression to estimate the independent impact of demographic characteristics, diabetes treatments, complications, and comorbidities on health-related quality-of-life.The mean EQ-5D–derived health utility score for those individuals with diabetes was 0.80. The modeled utility score for a nonobese, non–insulin-treated, non-Asian, non-Hispanic man with type 2 diabetes, with an annual household income of more than $40,000, and with no diabetes complications, risk factors for cardiovascular disease, or comorbidities, was 0.92. Being a woman, being obese, smoking, and having a lower household income were associated with lower utility scores. Arranging complications from least to most severe according to the reduction in health utility scores resulted in the following order: peripheral vascular disease, other heart diseases, transient ischemic attack, cerebral vascular accident, nonpainful diabetic neuropathy, congestive heart failure, dialysis, hemiplegia, painful neuropathy, and amputation.Major diabetes complications and comorbidities are associated with decreased health-related quality-of-life. Utility estimates from our study can be used to assess the impact of diabetes on quality-of-life and conduct cost-utility analyses.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/dc11-2478",
+		"ISSN": "0149-5992",
+		"issue": "11",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "2250-2256",
+		"title": "Health Utility Scores for People With Type 2 Diabetes in U.S. Managed Care Health Plans: Results from Translating Research Into Action for Diabetes (TRIAD)",
+		"URL": "https://doi.org/10.2337/dc11-2478",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Ping"
+			},
+			{
+				"family": "Brown",
+				"given": "Morton B."
+			},
+			{
+				"family": "Bilik",
+				"given": "Dori"
+			},
+			{
+				"family": "Ackermann",
+				"given": "Ronald T."
+			},
+			{
+				"family": "Li",
+				"given": "Rui"
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/58HG9A8U",
+		"type": "article-journal",
+		"abstract": "Multi-state models of chronic disease are becoming increasingly important in medical research to describe the progression of complicated diseases. However, studies seldom observe health outcomes over long time periods. Therefore, current clinical research focuses on the secondary data analysis of the published literature to estimate a single transition probability within the entire model. Unfortunately, there are many difficulties when using secondary data, especially since the states and transitions of published studies may not be consistent with the proposed multi-state model. Early approaches to reconciling published studies with the theoretical framework of a multi-state model have been limited to data available as cumulative counts of progression. This paper presents an approach that allows the use of published regression data in a multi-state model when the published study may have ignored intermediary states in the multi-state model. Colloquially, we call this approach the Lemonade Method since when study data give you lemons, make lemonade. The approach uses maximum likelihood estimation. An example is provided for the progression of heart disease in people with diabetes.",
+		"container-title": "Stat. Med.",
+		"DOI": "10.1002/sim.3599",
+		"ISSN": "0277-6715",
+		"issue": "16",
+		"note": "publisher: Wiley",
+		"page": "2095-2115",
+		"title": "Indirect estimation of a discrete-state discrete-time model using secondary data analysis of regression data",
+		"URL": "http://dx.doi.org/10.1002/sim.3599",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Isaman",
+				"given": "Deanna J M"
+			},
+			{
+				"family": "Barhak",
+				"given": "Jacob"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					5,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/A52G838M",
+		"type": "article-journal",
+		"abstract": "With the increasing burden of chronic diseases on the health care system, Markov-type models are becoming popular to predict the long-term outcomes of early intervention and to guide disease management. However, statisticians have not been actively involved in the development of these models. Typically, the models are developed by using secondary data analysis to find a single \"best\" study to estimate each transition in the model. However, due to the nature of secondary data analysis, there frequently are discrepancies between the theoretical model and the design of the studies being used. This paper illustrates a likelihood approach to correctly model the design of clinical studies under the conditions where 1) the theoretical model may include an instantaneous state of distinct interest to the researchers, and 2) the study design may be such that study data can not be used to estimate a single parameter in the theoretical model of interest. For example, a study may ignore intermediary stages of disease. Using our approach, not only can we accommodate the two conditions above, but more than one study may be used to estimate model parameters. In the spirit of \"If life gives you lemon, make lemonade\", we call this method \"Lemonade Method\". Simulation studies are carried out to evaluate the finite sample property of this method. In addition, the method is demonstrated through application to a model of heart disease in diabetes.",
+		"container-title": "Inf. Fusion",
+		"DOI": "10.1016/j.inffus.2010.08.003",
+		"ISSN": "1566-2535",
+		"issue": "2",
+		"note": "publisher: Elsevier BV",
+		"page": "137-145",
+		"title": "Use of secondary data to estimate instantaneous model parameters of diabetic heart disease: Lemonade Method",
+		"URL": "http://dx.doi.org/10.1016/j.inffus.2010.08.003",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Isaman",
+				"given": "Deanna Jm"
+			},
+			{
+				"family": "Barhak",
+				"given": "Jacob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					9,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/JJ975FDW",
+		"type": "article-journal",
+		"abstract": "Computers allow describing the progress of a disease using computerized models. These models allow aggregating expert and clinical information to allow researchers and decision makers to forecast disease progression. To make this forecast reliable, good models and therefore good modeling tools are required. This paper will describe a new computer tool designed for chronic disease modeling. The modeling capabilities of this tool were used to model the Michigan model for diabetes. The modeling approach and its advantages such as simplicity, availability, and transparency are discussed.",
+		"container-title": "J. Biomed. Inform.",
+		"DOI": "10.1016/j.jbi.2010.06.003",
+		"ISSN": "1532-0464",
+		"issue": "5",
+		"note": "publisher: Elsevier BV",
+		"page": "791-799",
+		"title": "Chronic disease modeling and simulation software",
+		"URL": "http://dx.doi.org/10.1016/j.jbi.2010.06.003",
+		"volume": "43",
+		"author": [
+			{
+				"family": "Barhak",
+				"given": "Jacob"
+			},
+			{
+				"family": "Isaman",
+				"given": "Deanna J M"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Lee",
+				"given": "Donghee"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					6,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/Q7KZAXF7",
+		"type": "article-journal",
+		"abstract": "This research was motivated by a desire to model the progression of a chronic disease through various disease stages when data are not available to directly estimate all the transition parameters in the model. This is a common occurrence when time and expense make it unfeasible to follow a single cohort to estimate all the transition parameters. One difficulty of developing a model of chronic disease progression from such data is that the available studies often do not include the transitions of interest. For example, in our model of diabetic nephropathy, many clinical studies did not differentiate between patients without nephropathy and those who had microalbuminuria (a pre-clinical stage of nephropathy). Another difficulty was a lack of data to directly estimate parameters of interest. We consider models which can accommodate such difficulties. In this paper we consider the problem of estimating parameters of a discrete-time Markov process when longitudinal data describing the entire process are not available. First, we present a likelihood approach to estimate parameters of a discrete-time Markov model. Next, we use simulation to investigate the finite-sample behaviour of our approach. Finally, we present two examples: a model of diabetic nephropathy and a model of cardiovascular disease in diabetes.",
+		"container-title": "Stat. Med.",
+		"DOI": "10.1002/sim.2241",
+		"ISSN": "0277-6715",
+		"issue": "6",
+		"note": "publisher: Wiley",
+		"page": "1035-1049",
+		"title": "A discrete-state discrete-time model using indirect observation",
+		"URL": "http://dx.doi.org/10.1002/sim.2241",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Isaman",
+				"given": "Deanna J M"
+			},
+			{
+				"family": "Herman",
+				"given": "William H"
+			},
+			{
+				"family": "Brown",
+				"given": "Morton B"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					3,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/B4529BHR",
+		"type": "article-journal",
+		"abstract": "OBJECTIVE—To develop and validate a comprehensive computer simulation model to assess the impact of screening, prevention, and treatment strategies on type 2 diabetes and its complications, comorbidities, quality of life, and cost.RESEARCH DESIGN AND METHODS—The incidence of type 2 diabetes and its complications and comorbidities were derived from population-based epidemiologic studies and randomized, controlled clinical trials. Health utility scores were derived for patients with type 2 diabetes using the Quality of Well Being–Self-Administered. Direct medical costs were derived for managed care patients with type 2 diabetes using paid insurance claims. Monte Carlo techniques were used to implement a semi-Markov model. Performance of the model was assessed using baseline and 4- and 10-year follow-up data from the older-onset diabetic population studied in the Wisconsin Epidemiologic Study of Diabetic Retinopathy (WESDR).RESULTS—Applying the model to the baseline WESDR population with type 2 diabetes, we predicted mortality to be 51% at 10 years. The prevalences of stroke and myocardial infarction were predicted to be 18 and 19% at 10 years. The prevalences of nonproliferative diabetic retinopathy, proliferative retinopathy, and macular edema were predicted to be 45, 16, and 18%, respectively; the prevalences of microalbuminuria, proteinuria, and end-stage renal disease were predicted to be 19, 39, and 3%, respectively; and the prevalences of clinical neuropathy and amputation were predicted to be 52 and 5%, respectively, at 10 years. Over 10 years, average undiscounted total direct medical costs were estimated to be $53,000 per person. Among survivors, the average utility score was estimated to be 0.56 at 10 years.CONCLUSIONS—Our computer simulation model accurately predicted survival and the cardiovascular, microvascular, and neuropathic complications observed in the WESDR cohort with type 2 diabetes over 10 years. The model can be used to predict the progression of diabetes and its complications, comorbidities, quality of life, and cost and to assess the relative effectiveness, cost-effectiveness, and cost-utility of alternative strategies for the prevention and treatment of type 2 diabetes.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/diacare.28.12.2856",
+		"ISSN": "0149-5992",
+		"issue": "12",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "2856-2863",
+		"title": "A Computer Simulation Model of Diabetes Progression, Quality of Life, and Cost",
+		"URL": "https://doi.org/10.2337/diacare.28.12.2856",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "Honghong"
+			},
+			{
+				"family": "Isaman",
+				"given": "Deanna J.M."
+			},
+			{
+				"family": "Messinger",
+				"given": "Shari"
+			},
+			{
+				"family": "Brown",
+				"given": "Morton B."
+			},
+			{
+				"family": "Klein",
+				"given": "Ronald"
+			},
+			{
+				"family": "Brandle",
+				"given": "Michael"
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/Z67RZ43V",
+		"type": "article-journal",
+		"abstract": "OBJECTIVE—To describe the direct medical costs associated with type 2 diabetes, as well as its treatments, complications, and comorbidities.RESEARCH DESIGN AND METHODS—We studied a random sample of 1,364 subjects with type 2 diabetes who were members of a Michigan health maintenance organization. Demographic characteristics, duration of diabetes, diabetes treatments, glycemic control, complications, and comorbidities were assessed by surveys and medical chart reviews. Annual resource utilization and costs were assessed using health insurance claims. The log-transformed annual direct medical costs were fitted by multiple linear regression to indicator variables for demographics, treatments, glycemic control, complications, and comorbidities.RESULTS—The median annual direct medical costs for subjects with diet-controlled type 2 diabetes, BMI 30 kg/m2, and no microvascular, neuropathic, or cardiovascular complications were $1,700 for white men and $2,100 for white women. A 10-kg/m2 increase in BMI, treatment with oral antidiabetic or antihypertensive agents, diabetic kidney disease, cerebrovascular disease, and peripheral vascular disease were each associated with 10–30% increases in cost. Insulin treatment, angina, and MI were each associated with 60–90% increases in cost. Dialysis was associated with an 11-fold increase in cost.CONCLUSIONS—Insulin treatment and diabetes complications have a substantial impact on the direct medical costs of type 2 diabetes. The estimates presented in this model may be used to analyze the cost-effectiveness of interventions for type 2 diabetes.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/diacare.26.8.2300",
+		"ISSN": "0149-5992",
+		"issue": "8",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "2300-2304",
+		"title": "The Direct Medical Cost of Type 2 Diabetes",
+		"URL": "https://doi.org/10.2337/diacare.26.8.2300",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Brandle",
+				"given": "Michael"
+			},
+			{
+				"family": "Zhou",
+				"given": "Honghong"
+			},
+			{
+				"family": "Smith",
+				"given": "Barbara R.K."
+			},
+			{
+				"family": "Marriott",
+				"given": "Deanna"
+			},
+			{
+				"family": "Burke",
+				"given": "Ray"
+			},
+			{
+				"family": "Tabaei",
+				"given": "Bahman P."
+			},
+			{
+				"family": "Brown",
+				"given": "Morton B."
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/E8BDJ3ZA",
+		"type": "article-journal",
+		"abstract": "OBJECTIVE—Cost-utility analyses use information on health utilities to compare medical treatments that have different clinical outcomes and impacts on survival. The purpose of this study was to describe the health utilities associated with diabetes and its treatments, complications, and comorbidities.RESEARCH DESIGN AND METHODS—We studied 2,048 subjects with type 1 and type 2 diabetes recruited from specialty clinics at a university medical center. We administered a questionnaire to each individual to assess demographic characteristics, type and duration of diabetes, treatments, complications, and comorbidities, and we used the Self-Administered Quality of Well Being index (QWB-SA) to calculate a health utility score. We then created regression models to fit the QWB-SA-derived health utility scores to indicator variables for type 1 and type 2 diabetes and each demographic variable, treatment, and complication. The coefficients were arranged in clinically meaningful ways to develop models to describe penalties from the health utility scores for nonobese diabetic men without additional treatments, complications, or comorbidities.RESULTS—The utility scores for nonobese diet-controlled men and women with type 2 diabetes and no microvascular, neuropathic, or cardiovascular complications were 0.69 and 0.65, respectively. The utility scores for men and women with type 1 diabetes and no complications were slightly lower (0.67 and 0.64, respectively). Blindness, dialysis, symptomatic neuropathy, foot ulcers, amputation, debilitating stroke, and congestive heart failure were associated with lower utility scores.CONCLUSIONS—Major diabetes complications are associated with worse health-related quality of life. The health utility scores provided should facilitate studies of the health burden of diabetes and the cost-utility of alternative strategies for the prevention and treatment of diabetes.",
+		"container-title": "Diabetes Care",
+		"DOI": "10.2337/diacare.25.12.2238",
+		"ISSN": "0149-5992",
+		"issue": "12",
+		"journalAbbreviation": "Diabetes Care",
+		"page": "2238-2243",
+		"title": "Valuing Health-Related Quality of Life in Diabetes",
+		"URL": "https://doi.org/10.2337/diacare.25.12.2238",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Coffey",
+				"given": "J. Todd"
+			},
+			{
+				"family": "Brandle",
+				"given": "Michael"
+			},
+			{
+				"family": "Zhou",
+				"given": "Honghong"
+			},
+			{
+				"family": "Marriott",
+				"given": "Deanna"
+			},
+			{
+				"family": "Burke",
+				"given": "Ray"
+			},
+			{
+				"family": "Tabaei",
+				"given": "Bahman P."
+			},
+			{
+				"family": "Engelgau",
+				"given": "Michael M."
+			},
+			{
+				"family": "Kaplan",
+				"given": "Robert M."
+			},
+			{
+				"family": "Herman",
+				"given": "William H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W4EYSEhQ/items/4BE8GYAN",
+		"type": "article-journal",
+		"abstract": "Background & AimsWe conducted a meta-analysis to summarize the rates of progression to and regression of nonalcoholic fatty liver (NAFL), nonalcoholic steatohepatitis (NASH), and fibrosis in adults with nonalcoholic fatty liver disease (NAFLD).",
+		"container-title": "Clinical Gastroenterology and Hepatology",
+		"DOI": "10.1016/j.cgh.2022.07.033",
+		"ISSN": "1542-3565",
+		"note": "publisher: Elsevier",
+		"title": "Disease State Transition Probabilities Across the Spectrum of NAFLD: A Systematic Review and Meta-Analysis of Paired Biopsy or Imaging Studies",
+		"URL": "https://doi.org/10.1016/j.cgh.2022.07.033",
+		"author": [
+			{
+				"family": "Le",
+				"given": "Phuc"
+			},
+			{
+				"family": "Payne",
+				"given": "Julia Yang"
+			},
+			{
+				"family": "Zhang",
+				"given": "Lu"
+			},
+			{
+				"family": "Deshpande",
+				"given": "Abhishek"
+			},
+			{
+				"family": "Rothberg",
+				"given": "Michael B."
+			},
+			{
+				"family": "Alkhouri",
+				"given": "Naim"
+			},
+			{
+				"family": "Herman",
+				"given": "William"
+			},
+			{
+				"family": "Hernandez",
+				"given": "Adrian V."
+			},
+			{
+				"family": "Schleicher",
+				"given": "Mary"
+			},
+			{
+				"family": "Ye",
+				"given": "Wen"
+			},
+			{
+				"family": "Dasarathy",
+				"given": "Srinivasan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					25
 				]
 			]
 		},
@@ -99,8 +1717,8 @@
 			"date-parts": [
 				[
 					"2022",
-					7,
-					14
+					8,
+					4
 				]
 			]
 		}
